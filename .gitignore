@@ -1,0 +1,6 @@
+db/
+disk-image/
+gem5/
+linux-stable/
+config.4.19.83
+launch_parsec_tests.py
