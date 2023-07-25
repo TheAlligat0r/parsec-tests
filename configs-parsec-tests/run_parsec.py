@@ -29,7 +29,7 @@
 """ Script to run PARSEC benchmarks with gem5.
     The script expects kernel, diskimage, cpu (kvm or timing),
     benchmark, benchmark size, and number of cpu cores as arguments.
-    This script is best used if your disk-image has workloads tha have
+    This script is best used if your disk-image has workloads that have
     ROI annotations compliant with m5 utility. You can use the script in 
     ../disk-images/parsec/ with the parsec-benchmark repo at 
     https://github.com/darchr/parsec-benchmark.git to create a working
