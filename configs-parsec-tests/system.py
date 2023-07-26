@@ -34,7 +34,7 @@ from fs_tools import *
 from caches import *
 
 
-class MySystem(LinuxX86FSSystem):
+class MySystem(LinuxX86System):
 
     SimpleOpts.add_option("--no_host_parallel", default=False,
                 action="store_true",
